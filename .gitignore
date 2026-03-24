@@ -1,3 +1,8 @@
+# Ignorar bases de dados do TCC
+*.csv
+*.xlsx
+*.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
